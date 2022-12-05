@@ -1,0 +1,3 @@
+This is the first iteration of the project that has all of the preprocessing steps already performed for the genotype data and makes use only of the phenotypes associated with the dataset
+
+Next I'll be adding the ability to use whole genotype datasets (this one was already pruned), do clumping to ensure independence in the analyses, and import a wide range of phenotype data to explore the outputs better.
